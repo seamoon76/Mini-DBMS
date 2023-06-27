@@ -1,0 +1,6 @@
+target/
+.idea/workspace.xml
+.DS_Store
+DATA/
+Config.java
+jar/
